@@ -18,5 +18,5 @@ diff
 
 ## If you want to see my project <a href="beyzaarslanturk-react-moneyspending.netlify.app">Click Here!</a> 
 
-![alt text](https://github.com/beyzaarslanturk/React-Weather-API/blob/master/screencapture-6450446db8d928475352712b-endearing-wisp-5eace7-netlify-app-2023-05-02-02_10_13.png)
+![alt text]([https://github.com/beyzaarslanturk/React-Weather-API/blob/master/screencapture-6450446db8d928475352712b-endearing-wisp-5eace7-netlify-app-2023-05-02-02_10_13.png](https://github.com/beyzaarslanturk/React-MoneySpendingApp/blob/master/money-spending-appp.png))
 
