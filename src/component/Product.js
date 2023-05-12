@@ -30,7 +30,7 @@ function Product({ product, total, money, basket, setBasket }) {
 
     return (
         <div className='product'>
-            <img alt='loading-image' src={product.image} />
+            <img alt='loading-asd' src={product.image} />
             <h6>{product.title}</h6>
             <div className='price'>$ {moneyFormat(product.price)}</div>
             <div className='actions'>
