@@ -10,6 +10,7 @@ function App() {
   const [money, setMoney] = useState(100000);
   const [basket, setBasket] = useState([]);
   const [total, setTotal] = useState(0);
+  console.log(setMoney);
 
   const resetBasket = () => {
     setBasket([])
