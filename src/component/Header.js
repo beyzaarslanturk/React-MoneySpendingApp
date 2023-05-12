@@ -17,8 +17,11 @@ function Header({ total, money }) {
 
         <style jsx>{`
         .header {
-          position: sticky;
+          position: fixed;
           top: 0;
+          width:100%;
+          z-index:2;
+          opacity:0.9;
           background: linear-gradient(to bottom, #61F3AE, #AFFBD7);
           height: 60px;
           display: flex;
